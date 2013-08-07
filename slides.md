@@ -118,7 +118,7 @@ Video to come on InfoQ later this year.
 
 How to use a ton of the front end focused tools that are built out in Node with your grails project.
 
-[Slides](TODO)
+[Slides](http://www.slideshare.net/zanthrash/node-tools-for-your-grails-toolbox-gr8conf-2014)
 
 ~~
 ### Hipster Talk
