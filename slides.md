@@ -116,6 +116,10 @@ Video to come on InfoQ later this year.
 ~~
 ### Node Tools
 
+How to use a ton of the front end focused tools that are built out in Node with your grails project.
+
+[Slides](TODO)
+
 ~~
 ### Hipster Talk
 
